@@ -64,5 +64,5 @@ Contributions are welcome! If you have ideas for improvements or bug fixes, plea
 ## Contact
 If you encounter any issues or have suggestions, feel free to open an issue in the repository or contact:
 - **Email**: nathanchaps@icloud.com
-- **GitHub**: [your-username](https://github.com/Lolgamer303)
+- **GitHub**: [Lolgamer303](https://github.com/Lolgamer303)
 
